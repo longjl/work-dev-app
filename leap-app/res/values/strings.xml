@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lishier-app</string>
+    <string name="content">content</string>
+    <string name="detail">detail</string>
+    <string name="video_player">video player</string>
+
+
+
+    <!-- menu -->
+    <string name="menu_more">更多</string>
+
+</resources>
